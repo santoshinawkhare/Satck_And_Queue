@@ -1,0 +1,14 @@
+C:\Users\MY PC\Desktop\BridgeLabz\StackAndQueues\bin\Debug\netcoreapp3.1\StackAndQueues.exe
+C:\Users\MY PC\Desktop\BridgeLabz\StackAndQueues\bin\Debug\netcoreapp3.1\StackAndQueues.deps.json
+C:\Users\MY PC\Desktop\BridgeLabz\StackAndQueues\bin\Debug\netcoreapp3.1\StackAndQueues.runtimeconfig.json
+C:\Users\MY PC\Desktop\BridgeLabz\StackAndQueues\bin\Debug\netcoreapp3.1\StackAndQueues.runtimeconfig.dev.json
+C:\Users\MY PC\Desktop\BridgeLabz\StackAndQueues\bin\Debug\netcoreapp3.1\StackAndQueues.dll
+C:\Users\MY PC\Desktop\BridgeLabz\StackAndQueues\bin\Debug\netcoreapp3.1\StackAndQueues.pdb
+C:\Users\MY PC\Desktop\BridgeLabz\StackAndQueues\obj\Debug\netcoreapp3.1\StackAndQueues.csproj.AssemblyReference.cache
+C:\Users\MY PC\Desktop\BridgeLabz\StackAndQueues\obj\Debug\netcoreapp3.1\StackAndQueues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MY PC\Desktop\BridgeLabz\StackAndQueues\obj\Debug\netcoreapp3.1\StackAndQueues.AssemblyInfoInputs.cache
+C:\Users\MY PC\Desktop\BridgeLabz\StackAndQueues\obj\Debug\netcoreapp3.1\StackAndQueues.AssemblyInfo.cs
+C:\Users\MY PC\Desktop\BridgeLabz\StackAndQueues\obj\Debug\netcoreapp3.1\StackAndQueues.csproj.CoreCompileInputs.cache
+C:\Users\MY PC\Desktop\BridgeLabz\StackAndQueues\obj\Debug\netcoreapp3.1\StackAndQueues.dll
+C:\Users\MY PC\Desktop\BridgeLabz\StackAndQueues\obj\Debug\netcoreapp3.1\StackAndQueues.pdb
+C:\Users\MY PC\Desktop\BridgeLabz\StackAndQueues\obj\Debug\netcoreapp3.1\StackAndQueues.genruntimeconfig.cache
